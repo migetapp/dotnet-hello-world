@@ -60,7 +60,7 @@ namespace aspnet
           <div class=""card-body"">
             <img src=""/images/miget-logo.png"" width=""128"" height=""128"" class=""d-inline-block align-top"" alt=""Logo"">
             <h5 class=""card-title"">Hello, world!</h5>
-            <p class=""card-text"">This simple .NET ASPNet application with Bootstrap has been deployed to Miget.</p>
+            <p class=""card-text"">This simple .NET ASP.NET application with Bootstrap has been deployed to Miget.</p>
             <a href=""https://miget.com"" class=""btn btn-primary"">Click to learn more</a>
           </div>
           <br>
